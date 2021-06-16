@@ -16,6 +16,10 @@ This is the distribution for test set without any augmentation
 
 Even with augmenting more of label 4 text, the distribution does not change much, it reamins the same more or less.
 
+Without any kind of augmentation the model did not do well at all. It would overfit like crazy, it barely touched 33% with various hyper parameters listed as follows
+
+
+
 We tried three creating models with RNN, LSTM, and GRU, using bidirectional, increasing dropout, increasing the number of layers, decreasing/increasing embedding dimensions. And also aking a bit of inspiration from best assignments, trying to understand what is to be done, we reached a maxinmum of 39.88% only. The following screenshots are proof of that. 
 With analysis done on the predictions, it was seen that label 4 was being predicted very less. Which lead to augmenting text with label 4 upto 80%.
 
@@ -23,7 +27,9 @@ It doesn't seem conventional to augment test data, but in my naivitiy, i augment
 
 
 
-Following is the 
+Following is the output for predictions and false positives
+
+
 Another technique that could be used, but was't able to test out, is oversampling. Since label 4 seems to be smaller in number, and also not being predicted enough times, it could be oversampled in the training set to make up for less records and also to level up the training set for this label itself. One of the assignments also suggested to use to use pretrained embeddings like GloVe, which seems an interesting prospect, but unfortunately could not try it out.
 
 Group Members
