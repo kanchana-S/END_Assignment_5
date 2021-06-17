@@ -29,8 +29,7 @@ Even with augmenting more of label 4 text, it still remains less compared to oth
 ![class augmentation fractions](https://github.com/kanchana-S/END_Assignment_5/blob/main/images/class_aug_fraction.PNG)
 
 
-Without any kind of augmentation the model did not do well at all. It would overfit like crazy, it barely touched 33% with various hyper parameters listed as follows
-
+Without any kind of augmentation the model did not do well at all. It would overfit like crazy, it barely touched 33% with various hyperparameters
 
 
 Without any augmentation only a maximum of 33% was being achieved, apart from that, the model was overfitting crazy!!! Some of the following screenshots are proof of that.
@@ -45,7 +44,7 @@ The final model is a <b><b>two</b></b> layers LSTM, with dropout of <b>0.3</b>, 
 
 
 
-It doesn't seem conventional to augment test data, but in my naivitiy, i augmented the complete dataset, and then split. I read later if this was valid, some say it is, some say it is not. It is for the instructor to decide now. Augmentation is done to help the model generalise, and increase records for any labels with less records, but only in training some say. But the argument is also that the train and test set should be similar for better accuracy, this is also apparently a common practice. But in any case the best predictions scores were achieved with augmenting the complete dataset method. The model even reached a validation accuracy of 45% multiple times for rnn and lstm. The training logs screenshots are as follows
+It doesn't seem conventional to augment test data, but in my naivitiy, i augmented the complete dataset, and then split. I read later if this was valid, some say it is, some say it is not. It is for the instructor to decide now. Augmentation is done to help the model generalise, and increase records for any labels with less records, but only in training some say. But the argument is also that the train and test set should be similar for better accuracy, this is also apparently a common practice. But in any case the best predictions scores were achieved with augmenting the complete dataset method. The model even reached a validation accuracy of 45% multiple times for rnn and lstm, the link to it's notebook is ![here](https://github.com/kanchana-S/END_Assignment_5/blob/main/Copy_of_Assignment_5_Sentiment_Analysis.ipynb) , and a saved training log will be found ![here](https://github.com/kanchana-S/END_Assignment_5/blob/main/training_log/full_aug_logs). The training logs screenshots are as follows
 
 with an lstm model
 
