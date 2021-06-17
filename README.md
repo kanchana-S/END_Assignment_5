@@ -34,5 +34,7 @@ Following is the output for predictions and false positives
 Another technique that could be used, but was't able to test out, is oversampling. Since label 4 seems to be smaller in number, and also not being predicted enough times, it could be oversampled in the training set to make up for less records and also to level up the training set for this label itself. One of the assignments also suggested to use to use pretrained embeddings like GloVe, which seems an interesting prospect, but unfortunately could not try it out.
 
 Group Members
+
 Sagar
+
 Pushya
