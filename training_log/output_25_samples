@@ -1,0 +1,74 @@
+sentence:  With generic sets and B-grade special effects , Jason is about as convincing on the sci-fi front as TV 's defunct Cleopatra 2525 .
+actual_label: Negative predicted_label: Negative
+
+sentence:  Not so much funny as aggressively sitcom-cute , it 's full of throwaway one-liners , not-quite jokes , and a determined TV amiability that Allen personifies .
+actual_label: Negative predicted_label: Negative
+
+sentence:  Even horror fans will most likely not find what they 're seeking with Trouble Every Day ; the movie lacks both thrills and humor .
+actual_label: Very Negative predicted_label: Negative
+
+sentence:  Purely propaganda , a work of unabashed hero worship , it is nonetheless -- and likely inadvertently -- a timely and invaluable implicit reminder of the role that U.S. foreign policy has played in the rise of Castro .
+actual_label: Neutral predicted_label: Very Negative
+
+sentence:  It is intensely personal and yet -- unlike Quills -- deftly shows us the temper of the times .
+actual_label: Very Positive predicted_label: Very Negative
+
+sentence:  Bad beyond belief and ridiculous beyond description .
+actual_label: Very Negative predicted_label: Negative
+
+sentence:  It 's a nicely detailed world of pawns , bishops and kings , of wagers in dingy backrooms or pristine forests .
+actual_label: Positive predicted_label: Positive
+
+sentence:  Now trimmed by about 20 minutes , this lavish three-year-old production has enough grandeur and scale to satisfy as grown-up escapism .
+actual_label: Positive predicted_label: Negative
+
+sentence:  Throwing caution to the wind with an invitation to the hedonist in us all , Nair has constructed this motion picture in such a way that even the most cynical curmudgeon with find himself or herself smiling at one time or another .
+actual_label: Very Positive predicted_label: Negative
+
+sentence:  But he loses his focus when he concentrates on any single person .
+actual_label: Negative predicted_label: Very Positive
+
+sentence:  it sounds sick and twisted , but the miracle of Shainberg 's film is that it truly is romance
+actual_label: Positive predicted_label: Very Negative
+
+sentence:  What could have been a neat little story about believing in yourself is swamped by heavy-handed melodrama .
+actual_label: Negative predicted_label: Negative
+
+sentence:  The movie is well shot and very tragic , and one to ponder after the credits roll .
+actual_label: Positive predicted_label: Neutral
+
+sentence:  Birot is a competent enough filmmaker , but her story has nothing fresh or very exciting about it .
+actual_label: Negative predicted_label: Very Negative
+
+sentence:  None of these characters resembles anyone you 've ever met in real life , unless you happen to know annoyingly self-involved people who speak in glib sentences that could have only come from the pen of a screenwriter .
+actual_label: Negative predicted_label: Positive
+
+sentence:  A 93-minute condensation of a 26-episode TV series , with all of the pitfalls of such you 'd expect .
+actual_label: Negative predicted_label: Very Positive
+
+sentence:  A very funny movie .
+actual_label: Very Positive predicted_label: Neutral
+
+sentence:  A movie that , rather than skip along the Seine , more or less slogs its way through soggy Paris , tongue uncomfortably in cheek .
+actual_label: Negative predicted_label: Positive
+
+sentence:  The reason I found myself finally unmoved by this film , which is immaculately produced and has serious things to say , is that it comes across rather too plainly as allegory .
+actual_label: Neutral predicted_label: Negative
+
+sentence:  No reason for anyone to invest their hard-earned bucks into a movie which obviously did n't invest much into itself either .
+actual_label: Very Negative predicted_label: Negative
+
+sentence:  For a film about two mismatched buddies , Crystal and De Niro share little screen time and even less chemistry .
+actual_label: Negative predicted_label: Negative
+
+sentence:  A shambles of a movie -- visually unattractive , unbearably loud and utterly silly ... its hilarity is completely unintentional .
+actual_label: Negative predicted_label: Neutral
+
+sentence:  Often moving and explores the discomfort inherent in the contacts between the American ` hosts ' and their ` guests . '
+actual_label: Neutral predicted_label: Very Negative
+
+sentence:  In the process , they demonstrate that there 's still a lot of life in Hong Kong cinema .
+actual_label: Positive predicted_label: Very Negative
+
+sentence:  There 's enough melodrama in this Magnolia Primavera to make PTA proud yet director Muccino 's characters are less worthy of Puccini than they are of daytime television .
+actual_label: Negative predicted_label: Very Positive
