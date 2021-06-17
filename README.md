@@ -8,7 +8,7 @@
 
 Before any augmentation this was the kind of distribution of the dataset
 
-
+![full data without augmentation](https://github.com/kanchana-S/END_Assignment_5/blob/main/images/full_data_wo_aug.png)
 
 
 After Augmentaion this is the distribution for train set
