@@ -1,0 +1,599 @@
+Train Loss: 1.601 | Train Acc: 25.44%
+	 Val. Loss: 1.596 |  Val. Acc: 25.27% 
+
+	Train Loss: 1.596 | Train Acc: 26.26%
+	 Val. Loss: 1.595 |  Val. Acc: 24.64% 
+
+	Train Loss: 1.595 | Train Acc: 26.61%
+	 Val. Loss: 1.594 |  Val. Acc: 23.97% 
+
+	Train Loss: 1.593 | Train Acc: 26.95%
+	 Val. Loss: 1.593 |  Val. Acc: 23.94% 
+
+	Train Loss: 1.591 | Train Acc: 27.58%
+	 Val. Loss: 1.592 |  Val. Acc: 23.73% 
+
+	Train Loss: 1.589 | Train Acc: 27.72%
+	 Val. Loss: 1.592 |  Val. Acc: 23.58% 
+
+	Train Loss: 1.586 | Train Acc: 28.23%
+	 Val. Loss: 1.591 |  Val. Acc: 23.58% 
+
+	Train Loss: 1.583 | Train Acc: 28.23%
+	 Val. Loss: 1.588 |  Val. Acc: 24.30% 
+
+	Train Loss: 1.579 | Train Acc: 29.05%
+	 Val. Loss: 1.587 |  Val. Acc: 25.01% 
+
+	Train Loss: 1.574 | Train Acc: 29.60%
+	 Val. Loss: 1.589 |  Val. Acc: 25.04% 
+
+	Train Loss: 1.566 | Train Acc: 30.75%
+	 Val. Loss: 1.587 |  Val. Acc: 26.55% 
+
+	Train Loss: 1.559 | Train Acc: 31.80%
+	 Val. Loss: 1.582 |  Val. Acc: 27.68% 
+
+	Train Loss: 1.548 | Train Acc: 33.22%
+	 Val. Loss: 1.589 |  Val. Acc: 26.84% 
+
+	Train Loss: 1.540 | Train Acc: 34.49%
+	 Val. Loss: 1.580 |  Val. Acc: 29.20% 
+
+	Train Loss: 1.532 | Train Acc: 35.08%
+	 Val. Loss: 1.581 |  Val. Acc: 29.20% 
+
+	Train Loss: 1.523 | Train Acc: 36.02%
+	 Val. Loss: 1.579 |  Val. Acc: 29.80% 
+
+	Train Loss: 1.515 | Train Acc: 37.12%
+	 Val. Loss: 1.571 |  Val. Acc: 30.48% 
+
+	Train Loss: 1.511 | Train Acc: 37.63%
+	 Val. Loss: 1.574 |  Val. Acc: 30.31% 
+
+	Train Loss: 1.504 | Train Acc: 38.80%
+	 Val. Loss: 1.567 |  Val. Acc: 31.21% 
+
+	Train Loss: 1.495 | Train Acc: 39.80%
+	 Val. Loss: 1.561 |  Val. Acc: 32.03% 
+
+	Train Loss: 1.489 | Train Acc: 40.77%
+	 Val. Loss: 1.558 |  Val. Acc: 32.33% 
+
+	Train Loss: 1.483 | Train Acc: 41.50%
+	 Val. Loss: 1.558 |  Val. Acc: 32.49% 
+
+	Train Loss: 1.474 | Train Acc: 42.44%
+	 Val. Loss: 1.552 |  Val. Acc: 32.68% 
+
+	Train Loss: 1.471 | Train Acc: 42.86%
+	 Val. Loss: 1.554 |  Val. Acc: 32.66% 
+
+	Train Loss: 1.463 | Train Acc: 43.66%
+	 Val. Loss: 1.550 |  Val. Acc: 32.77% 
+
+	Train Loss: 1.454 | Train Acc: 44.80%
+	 Val. Loss: 1.546 |  Val. Acc: 33.80% 
+
+	Train Loss: 1.452 | Train Acc: 45.23%
+	 Val. Loss: 1.545 |  Val. Acc: 34.01% 
+
+	Train Loss: 1.445 | Train Acc: 45.81%
+	 Val. Loss: 1.544 |  Val. Acc: 34.05% 
+
+	Train Loss: 1.439 | Train Acc: 46.26%
+	 Val. Loss: 1.539 |  Val. Acc: 34.43% 
+
+	Train Loss: 1.430 | Train Acc: 47.39%
+	 Val. Loss: 1.537 |  Val. Acc: 35.02% 
+
+	Train Loss: 1.426 | Train Acc: 47.91%
+	 Val. Loss: 1.536 |  Val. Acc: 35.52% 
+
+	Train Loss: 1.421 | Train Acc: 48.35%
+	 Val. Loss: 1.536 |  Val. Acc: 35.50% 
+
+	Train Loss: 1.415 | Train Acc: 49.16%
+	 Val. Loss: 1.536 |  Val. Acc: 35.00% 
+
+	Train Loss: 1.411 | Train Acc: 49.82%
+	 Val. Loss: 1.532 |  Val. Acc: 35.69% 
+
+	Train Loss: 1.405 | Train Acc: 50.35%
+	 Val. Loss: 1.531 |  Val. Acc: 35.50% 
+
+	Train Loss: 1.401 | Train Acc: 50.55%
+	 Val. Loss: 1.528 |  Val. Acc: 36.04% 
+
+	Train Loss: 1.392 | Train Acc: 51.53%
+	 Val. Loss: 1.528 |  Val. Acc: 36.09% 
+
+	Train Loss: 1.391 | Train Acc: 51.47%
+	 Val. Loss: 1.525 |  Val. Acc: 36.36% 
+
+	Train Loss: 1.383 | Train Acc: 52.33%
+	 Val. Loss: 1.523 |  Val. Acc: 36.70% 
+
+	Train Loss: 1.379 | Train Acc: 52.89%
+	 Val. Loss: 1.525 |  Val. Acc: 36.38% 
+
+	Train Loss: 1.373 | Train Acc: 53.90%
+	 Val. Loss: 1.523 |  Val. Acc: 36.55% 
+
+	Train Loss: 1.369 | Train Acc: 54.05%
+	 Val. Loss: 1.522 |  Val. Acc: 36.78% 
+
+	Train Loss: 1.368 | Train Acc: 54.42%
+	 Val. Loss: 1.524 |  Val. Acc: 36.63% 
+
+	Train Loss: 1.358 | Train Acc: 55.32%
+	 Val. Loss: 1.524 |  Val. Acc: 36.38% 
+
+	Train Loss: 1.354 | Train Acc: 55.65%
+	 Val. Loss: 1.522 |  Val. Acc: 36.51% 
+
+	Train Loss: 1.347 | Train Acc: 56.39%
+	 Val. Loss: 1.518 |  Val. Acc: 37.07% 
+
+	Train Loss: 1.348 | Train Acc: 55.98%
+	 Val. Loss: 1.518 |  Val. Acc: 37.37% 
+
+	Train Loss: 1.338 | Train Acc: 57.26%
+	 Val. Loss: 1.521 |  Val. Acc: 36.51% 
+
+	Train Loss: 1.338 | Train Acc: 57.17%
+	 Val. Loss: 1.518 |  Val. Acc: 37.32% 
+
+	Train Loss: 1.330 | Train Acc: 58.04%
+	 Val. Loss: 1.518 |  Val. Acc: 37.07% 
+
+	Train Loss: 1.328 | Train Acc: 58.26%
+	 Val. Loss: 1.518 |  Val. Acc: 37.45% 
+
+	Train Loss: 1.325 | Train Acc: 58.61%
+	 Val. Loss: 1.518 |  Val. Acc: 37.18% 
+
+	Train Loss: 1.322 | Train Acc: 58.50%
+	 Val. Loss: 1.517 |  Val. Acc: 37.14% 
+
+	Train Loss: 1.311 | Train Acc: 60.17%
+	 Val. Loss: 1.514 |  Val. Acc: 36.86% 
+
+	Train Loss: 1.313 | Train Acc: 59.58%
+	 Val. Loss: 1.510 |  Val. Acc: 37.58% 
+
+	Train Loss: 1.304 | Train Acc: 60.56%
+	 Val. Loss: 1.509 |  Val. Acc: 38.17% 
+
+	Train Loss: 1.306 | Train Acc: 60.58%
+	 Val. Loss: 1.510 |  Val. Acc: 37.98% 
+
+	Train Loss: 1.301 | Train Acc: 60.69%
+	 Val. Loss: 1.510 |  Val. Acc: 37.91% 
+
+	Train Loss: 1.296 | Train Acc: 61.35%
+	 Val. Loss: 1.509 |  Val. Acc: 37.81% 
+
+	Train Loss: 1.294 | Train Acc: 61.73%
+	 Val. Loss: 1.509 |  Val. Acc: 37.89% 
+
+	Train Loss: 1.287 | Train Acc: 62.31%
+	 Val. Loss: 1.512 |  Val. Acc: 37.87% 
+
+	Train Loss: 1.286 | Train Acc: 62.47%
+	 Val. Loss: 1.508 |  Val. Acc: 38.57% 
+
+	Train Loss: 1.285 | Train Acc: 62.37%
+	 Val. Loss: 1.506 |  Val. Acc: 38.36% 
+
+	Train Loss: 1.283 | Train Acc: 62.71%
+	 Val. Loss: 1.506 |  Val. Acc: 38.67% 
+
+	Train Loss: 1.274 | Train Acc: 63.76%
+	 Val. Loss: 1.504 |  Val. Acc: 38.69% 
+
+	Train Loss: 1.275 | Train Acc: 63.22%
+	 Val. Loss: 1.502 |  Val. Acc: 38.95% 
+
+	Train Loss: 1.272 | Train Acc: 63.88%
+	 Val. Loss: 1.501 |  Val. Acc: 38.95% 
+
+	Train Loss: 1.268 | Train Acc: 64.10%
+	 Val. Loss: 1.504 |  Val. Acc: 38.90% 
+
+	Train Loss: 1.262 | Train Acc: 65.00%
+	 Val. Loss: 1.505 |  Val. Acc: 38.71% 
+
+	Train Loss: 1.261 | Train Acc: 64.71%
+	 Val. Loss: 1.502 |  Val. Acc: 39.11% 
+
+	Train Loss: 1.258 | Train Acc: 65.33%
+	 Val. Loss: 1.504 |  Val. Acc: 38.69% 
+
+	Train Loss: 1.256 | Train Acc: 65.38%
+	 Val. Loss: 1.507 |  Val. Acc: 38.40% 
+
+	Train Loss: 1.252 | Train Acc: 65.78%
+	 Val. Loss: 1.507 |  Val. Acc: 38.13% 
+
+	Train Loss: 1.248 | Train Acc: 65.99%
+	 Val. Loss: 1.503 |  Val. Acc: 38.99% 
+
+	Train Loss: 1.248 | Train Acc: 66.34%
+	 Val. Loss: 1.507 |  Val. Acc: 38.71% 
+
+	Train Loss: 1.242 | Train Acc: 66.82%
+	 Val. Loss: 1.502 |  Val. Acc: 38.95% 
+
+	Train Loss: 1.241 | Train Acc: 67.04%
+	 Val. Loss: 1.504 |  Val. Acc: 39.05% 
+
+	Train Loss: 1.241 | Train Acc: 66.64%
+	 Val. Loss: 1.504 |  Val. Acc: 39.24% 
+
+	Train Loss: 1.233 | Train Acc: 67.63%
+	 Val. Loss: 1.505 |  Val. Acc: 38.73% 
+
+	Train Loss: 1.234 | Train Acc: 67.61%
+	 Val. Loss: 1.499 |  Val. Acc: 39.47% 
+
+	Train Loss: 1.230 | Train Acc: 67.94%
+	 Val. Loss: 1.505 |  Val. Acc: 38.61% 
+
+	Train Loss: 1.224 | Train Acc: 68.60%
+	 Val. Loss: 1.503 |  Val. Acc: 39.01% 
+
+	Train Loss: 1.224 | Train Acc: 68.62%
+	 Val. Loss: 1.501 |  Val. Acc: 38.98% 
+
+	Train Loss: 1.223 | Train Acc: 68.47%
+	 Val. Loss: 1.505 |  Val. Acc: 39.01% 
+
+	Train Loss: 1.220 | Train Acc: 68.92%
+	 Val. Loss: 1.496 |  Val. Acc: 40.23% 
+
+	Train Loss: 1.220 | Train Acc: 68.90%
+	 Val. Loss: 1.498 |  Val. Acc: 39.62% 
+
+	Train Loss: 1.217 | Train Acc: 69.06%
+	 Val. Loss: 1.503 |  Val. Acc: 39.28% 
+
+	Train Loss: 1.212 | Train Acc: 69.74%
+	 Val. Loss: 1.498 |  Val. Acc: 39.55% 
+
+	Train Loss: 1.209 | Train Acc: 70.02%
+	 Val. Loss: 1.502 |  Val. Acc: 39.09% 
+
+	Train Loss: 1.205 | Train Acc: 70.46%
+	 Val. Loss: 1.502 |  Val. Acc: 39.34% 
+
+	Train Loss: 1.206 | Train Acc: 70.33%
+	 Val. Loss: 1.501 |  Val. Acc: 39.03% 
+
+	Train Loss: 1.202 | Train Acc: 70.71%
+	 Val. Loss: 1.501 |  Val. Acc: 38.99% 
+
+	Train Loss: 1.200 | Train Acc: 70.92%
+	 Val. Loss: 1.501 |  Val. Acc: 38.86% 
+
+	Train Loss: 1.200 | Train Acc: 70.98%
+	 Val. Loss: 1.500 |  Val. Acc: 39.43% 
+
+	Train Loss: 1.198 | Train Acc: 70.92%
+	 Val. Loss: 1.495 |  Val. Acc: 39.76% 
+
+	Train Loss: 1.194 | Train Acc: 71.53%
+	 Val. Loss: 1.498 |  Val. Acc: 39.49% 
+
+	Train Loss: 1.192 | Train Acc: 71.91%
+	 Val. Loss: 1.497 |  Val. Acc: 40.06% 
+
+	Train Loss: 1.190 | Train Acc: 71.86%
+	 Val. Loss: 1.496 |  Val. Acc: 39.87% 
+
+	Train Loss: 1.188 | Train Acc: 71.80%
+	 Val. Loss: 1.496 |  Val. Acc: 39.87% 
+
+	Train Loss: 1.187 | Train Acc: 72.26%
+	 Val. Loss: 1.495 |  Val. Acc: 40.00% 
+
+	Train Loss: 1.185 | Train Acc: 72.49%
+	 Val. Loss: 1.494 |  Val. Acc: 40.10% 
+
+	Train Loss: 1.182 | Train Acc: 72.71%
+	 Val. Loss: 1.498 |  Val. Acc: 39.70% 
+
+	Train Loss: 1.183 | Train Acc: 72.79%
+	 Val. Loss: 1.495 |  Val. Acc: 39.95% 
+
+	Train Loss: 1.175 | Train Acc: 73.34%
+	 Val. Loss: 1.499 |  Val. Acc: 39.39% 
+
+	Train Loss: 1.175 | Train Acc: 73.61%
+	 Val. Loss: 1.500 |  Val. Acc: 39.43% 
+
+	Train Loss: 1.173 | Train Acc: 73.49%
+	 Val. Loss: 1.500 |  Val. Acc: 39.24% 
+
+	Train Loss: 1.173 | Train Acc: 73.59%
+	 Val. Loss: 1.500 |  Val. Acc: 39.47% 
+
+	Train Loss: 1.170 | Train Acc: 73.89%
+	 Val. Loss: 1.498 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.167 | Train Acc: 74.20%
+	 Val. Loss: 1.500 |  Val. Acc: 39.39% 
+
+	Train Loss: 1.169 | Train Acc: 73.98%
+	 Val. Loss: 1.499 |  Val. Acc: 39.93% 
+
+	Train Loss: 1.164 | Train Acc: 74.57%
+	 Val. Loss: 1.493 |  Val. Acc: 40.52% 
+
+	Train Loss: 1.164 | Train Acc: 74.71%
+	 Val. Loss: 1.498 |  Val. Acc: 39.81% 
+
+	Train Loss: 1.163 | Train Acc: 74.26%
+	 Val. Loss: 1.495 |  Val. Acc: 40.10% 
+
+	Train Loss: 1.157 | Train Acc: 75.15%
+	 Val. Loss: 1.494 |  Val. Acc: 40.14% 
+
+	Train Loss: 1.156 | Train Acc: 75.21%
+	 Val. Loss: 1.494 |  Val. Acc: 40.44% 
+
+	Train Loss: 1.151 | Train Acc: 76.02%
+	 Val. Loss: 1.498 |  Val. Acc: 39.60% 
+
+	Train Loss: 1.155 | Train Acc: 75.47%
+	 Val. Loss: 1.496 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.152 | Train Acc: 75.71%
+	 Val. Loss: 1.493 |  Val. Acc: 40.18% 
+
+	Train Loss: 1.151 | Train Acc: 75.82%
+	 Val. Loss: 1.496 |  Val. Acc: 40.06% 
+
+	Train Loss: 1.147 | Train Acc: 76.23%
+	 Val. Loss: 1.492 |  Val. Acc: 40.90% 
+
+	Train Loss: 1.148 | Train Acc: 76.01%
+	 Val. Loss: 1.496 |  Val. Acc: 40.23% 
+
+	Train Loss: 1.145 | Train Acc: 76.32%
+	 Val. Loss: 1.497 |  Val. Acc: 39.93% 
+
+	Train Loss: 1.144 | Train Acc: 76.62%
+	 Val. Loss: 1.499 |  Val. Acc: 39.26% 
+
+	Train Loss: 1.144 | Train Acc: 76.32%
+	 Val. Loss: 1.497 |  Val. Acc: 39.97% 
+
+	Train Loss: 1.143 | Train Acc: 76.34%
+	 Val. Loss: 1.497 |  Val. Acc: 39.51% 
+
+	Train Loss: 1.136 | Train Acc: 77.47%
+	 Val. Loss: 1.496 |  Val. Acc: 40.27% 
+
+	Train Loss: 1.134 | Train Acc: 77.59%
+	 Val. Loss: 1.500 |  Val. Acc: 39.81% 
+
+	Train Loss: 1.133 | Train Acc: 77.62%
+	 Val. Loss: 1.497 |  Val. Acc: 39.34% 
+
+	Train Loss: 1.137 | Train Acc: 77.24%
+	 Val. Loss: 1.498 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.134 | Train Acc: 77.49%
+	 Val. Loss: 1.499 |  Val. Acc: 39.30% 
+
+	Train Loss: 1.131 | Train Acc: 77.97%
+	 Val. Loss: 1.498 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.128 | Train Acc: 77.98%
+	 Val. Loss: 1.502 |  Val. Acc: 39.26% 
+
+	Train Loss: 1.128 | Train Acc: 78.06%
+	 Val. Loss: 1.504 |  Val. Acc: 39.18% 
+
+	Train Loss: 1.125 | Train Acc: 78.33%
+	 Val. Loss: 1.500 |  Val. Acc: 39.34% 
+
+	Train Loss: 1.127 | Train Acc: 78.02%
+	 Val. Loss: 1.498 |  Val. Acc: 39.70% 
+
+	Train Loss: 1.125 | Train Acc: 78.35%
+	 Val. Loss: 1.494 |  Val. Acc: 40.06% 
+
+	Train Loss: 1.121 | Train Acc: 78.89%
+	 Val. Loss: 1.500 |  Val. Acc: 39.41% 
+
+	Train Loss: 1.117 | Train Acc: 79.30%
+	 Val. Loss: 1.500 |  Val. Acc: 39.51% 
+
+	Train Loss: 1.118 | Train Acc: 79.20%
+	 Val. Loss: 1.500 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.118 | Train Acc: 79.18%
+	 Val. Loss: 1.497 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.114 | Train Acc: 79.86%
+	 Val. Loss: 1.502 |  Val. Acc: 39.18% 
+
+	Train Loss: 1.115 | Train Acc: 79.37%
+	 Val. Loss: 1.500 |  Val. Acc: 39.43% 
+
+	Train Loss: 1.115 | Train Acc: 79.52%
+	 Val. Loss: 1.499 |  Val. Acc: 39.60% 
+
+	Train Loss: 1.110 | Train Acc: 80.02%
+	 Val. Loss: 1.499 |  Val. Acc: 39.97% 
+
+	Train Loss: 1.110 | Train Acc: 79.74%
+	 Val. Loss: 1.502 |  Val. Acc: 39.39% 
+
+	Train Loss: 1.108 | Train Acc: 80.01%
+	 Val. Loss: 1.495 |  Val. Acc: 40.31% 
+
+	Train Loss: 1.107 | Train Acc: 80.15%
+	 Val. Loss: 1.498 |  Val. Acc: 39.60% 
+
+	Train Loss: 1.105 | Train Acc: 80.32%
+	 Val. Loss: 1.497 |  Val. Acc: 39.93% 
+
+	Train Loss: 1.105 | Train Acc: 80.23%
+	 Val. Loss: 1.493 |  Val. Acc: 40.39% 
+
+	Train Loss: 1.107 | Train Acc: 80.22%
+	 Val. Loss: 1.496 |  Val. Acc: 40.18% 
+
+	Train Loss: 1.101 | Train Acc: 80.84%
+	 Val. Loss: 1.497 |  Val. Acc: 40.06% 
+
+	Train Loss: 1.100 | Train Acc: 81.20%
+	 Val. Loss: 1.498 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.106 | Train Acc: 80.58%
+	 Val. Loss: 1.495 |  Val. Acc: 40.02% 
+
+	Train Loss: 1.099 | Train Acc: 80.94%
+	 Val. Loss: 1.500 |  Val. Acc: 39.11% 
+
+	Train Loss: 1.100 | Train Acc: 80.87%
+	 Val. Loss: 1.494 |  Val. Acc: 40.25% 
+
+	Train Loss: 1.092 | Train Acc: 81.72%
+	 Val. Loss: 1.498 |  Val. Acc: 39.11% 
+
+	Train Loss: 1.095 | Train Acc: 81.53%
+	 Val. Loss: 1.493 |  Val. Acc: 40.56% 
+
+	Train Loss: 1.098 | Train Acc: 81.13%
+	 Val. Loss: 1.492 |  Val. Acc: 40.27% 
+
+	Train Loss: 1.095 | Train Acc: 81.48%
+	 Val. Loss: 1.492 |  Val. Acc: 40.27% 
+
+	Train Loss: 1.089 | Train Acc: 81.94%
+	 Val. Loss: 1.492 |  Val. Acc: 40.44% 
+
+	Train Loss: 1.093 | Train Acc: 81.41%
+	 Val. Loss: 1.494 |  Val. Acc: 40.06% 
+
+	Train Loss: 1.090 | Train Acc: 81.89%
+	 Val. Loss: 1.496 |  Val. Acc: 39.81% 
+
+	Train Loss: 1.090 | Train Acc: 81.85%
+	 Val. Loss: 1.493 |  Val. Acc: 39.97% 
+
+	Train Loss: 1.088 | Train Acc: 82.17%
+	 Val. Loss: 1.495 |  Val. Acc: 39.70% 
+
+	Train Loss: 1.085 | Train Acc: 82.35%
+	 Val. Loss: 1.493 |  Val. Acc: 39.81% 
+
+	Train Loss: 1.084 | Train Acc: 82.44%
+	 Val. Loss: 1.494 |  Val. Acc: 39.81% 
+
+	Train Loss: 1.087 | Train Acc: 82.11%
+	 Val. Loss: 1.491 |  Val. Acc: 40.27% 
+
+	Train Loss: 1.084 | Train Acc: 82.59%
+	 Val. Loss: 1.494 |  Val. Acc: 40.18% 
+
+	Train Loss: 1.083 | Train Acc: 82.62%
+	 Val. Loss: 1.493 |  Val. Acc: 40.02% 
+
+	Train Loss: 1.080 | Train Acc: 83.05%
+	 Val. Loss: 1.495 |  Val. Acc: 39.53% 
+
+	Train Loss: 1.078 | Train Acc: 83.18%
+	 Val. Loss: 1.493 |  Val. Acc: 40.10% 
+
+	Train Loss: 1.079 | Train Acc: 82.99%
+	 Val. Loss: 1.498 |  Val. Acc: 39.37% 
+
+	Train Loss: 1.078 | Train Acc: 83.00%
+	 Val. Loss: 1.494 |  Val. Acc: 39.62% 
+
+	Train Loss: 1.073 | Train Acc: 83.65%
+	 Val. Loss: 1.500 |  Val. Acc: 38.93% 
+
+	Train Loss: 1.073 | Train Acc: 83.60%
+	 Val. Loss: 1.497 |  Val. Acc: 39.91% 
+
+	Train Loss: 1.073 | Train Acc: 83.59%
+	 Val. Loss: 1.498 |  Val. Acc: 39.53% 
+
+	Train Loss: 1.071 | Train Acc: 83.83%
+	 Val. Loss: 1.494 |  Val. Acc: 40.18% 
+
+	Train Loss: 1.070 | Train Acc: 83.86%
+	 Val. Loss: 1.492 |  Val. Acc: 40.10% 
+
+	Train Loss: 1.071 | Train Acc: 83.84%
+	 Val. Loss: 1.497 |  Val. Acc: 39.53% 
+
+	Train Loss: 1.072 | Train Acc: 83.52%
+	 Val. Loss: 1.498 |  Val. Acc: 39.58% 
+
+	Train Loss: 1.066 | Train Acc: 84.22%
+	 Val. Loss: 1.497 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.067 | Train Acc: 84.18%
+	 Val. Loss: 1.494 |  Val. Acc: 40.31% 
+
+	Train Loss: 1.066 | Train Acc: 84.61%
+	 Val. Loss: 1.492 |  Val. Acc: 40.60% 
+
+	Train Loss: 1.064 | Train Acc: 84.50%
+	 Val. Loss: 1.500 |  Val. Acc: 39.79% 
+
+	Train Loss: 1.065 | Train Acc: 84.38%
+	 Val. Loss: 1.499 |  Val. Acc: 39.58% 
+
+	Train Loss: 1.058 | Train Acc: 85.14%
+	 Val. Loss: 1.496 |  Val. Acc: 40.31% 
+
+	Train Loss: 1.064 | Train Acc: 84.40%
+	 Val. Loss: 1.494 |  Val. Acc: 40.02% 
+
+	Train Loss: 1.063 | Train Acc: 84.44%
+	 Val. Loss: 1.497 |  Val. Acc: 39.76% 
+
+	Train Loss: 1.061 | Train Acc: 84.74%
+	 Val. Loss: 1.498 |  Val. Acc: 39.68% 
+
+	Train Loss: 1.061 | Train Acc: 84.69%
+	 Val. Loss: 1.498 |  Val. Acc: 39.55% 
+
+	Train Loss: 1.059 | Train Acc: 84.98%
+	 Val. Loss: 1.500 |  Val. Acc: 39.37% 
+
+	Train Loss: 1.060 | Train Acc: 84.95%
+	 Val. Loss: 1.501 |  Val. Acc: 39.32% 
+
+	Train Loss: 1.062 | Train Acc: 84.73%
+	 Val. Loss: 1.499 |  Val. Acc: 39.26% 
+
+	Train Loss: 1.058 | Train Acc: 85.02%
+	 Val. Loss: 1.499 |  Val. Acc: 39.32% 
+
+	Train Loss: 1.054 | Train Acc: 85.50%
+	 Val. Loss: 1.500 |  Val. Acc: 39.60% 
+
+	Train Loss: 1.053 | Train Acc: 85.69%
+	 Val. Loss: 1.500 |  Val. Acc: 39.45% 
+
+	Train Loss: 1.053 | Train Acc: 85.53%
+	 Val. Loss: 1.498 |  Val. Acc: 39.79% 
+
+	Train Loss: 1.056 | Train Acc: 85.29%
+	 Val. Loss: 1.497 |  Val. Acc: 40.02% 
+
+	Train Loss: 1.051 | Train Acc: 85.77%
+	 Val. Loss: 1.496 |  Val. Acc: 39.83% 
+
+	Train Loss: 1.048 | Train Acc: 86.17%
+	 Val. Loss: 1.495 |  Val. Acc: 39.95% 
