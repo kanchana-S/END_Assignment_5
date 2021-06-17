@@ -10,6 +10,7 @@ Before any augmentation this was the kind of distribution of the dataset
 
 
 
+
 After Augmentaion this is the distribution for train set
 
 This is the distribution for test set without any augmentation
@@ -45,5 +46,6 @@ Another technique that could be used, but was't able to test out, is oversamplin
 
 Group Members
 
-Sagar \n
+Sagar
+
 Pushya
